@@ -7,3 +7,6 @@
 - Window
 - Android Studio
 - Firebase
+
+## PetCare Project
+펫과 관련된 정보를 공유하고 자신만의 앨범을 저장할 수 있는 어플 제작 프로젝트
